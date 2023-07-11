@@ -103,7 +103,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1D0ZSEOHQLQz-y28jeSc1LRXxtUxU6wnI/view?usp=sharing",
+    "https://drive.google.com/file/d/17GsLRXScdvBjGP94pGOFlyhLrqKWOeOm/view?usp=sharing",
   socialLinks: {
     twitter: "https://twitter.com/FranklinDuru7",
     linkedin: "https://www.linkedin.com/in/obinna-duru-11297b225/",
