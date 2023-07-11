@@ -55,9 +55,9 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer specializing in back-end development with over six months of experience.",
+      "I'm a software developer specializing in back-end development.",
     description: [
-      `Over the past half-year, I have dedicated a significant amount of time to learning and practicing the fundamentals of front-end development, including HTML, CSS, JavaScript, React, as well as algorithms, Node.js, and Express.js.`,
+      `During my learning journey, I have dedicated a significant amount of time to learning and practicing the fundamentals of front-end development, including HTML, CSS, JavaScript, React, as well as algorithms, Node.js, and Express.js.`,
       `Now, I have honed my skills in back-end development. I can develop RESTful APIs, test with Postman, document with Swagger, interact with databases, and implement server-side logic, authentication, and authorization with JSON Web Tokens and Oauth 0.2 implementation. Additionally, I possess knowledge of blockchain, smart contracts, and NFTs.`,
       `I am eager to work with a team, learn from experienced developers, and contribute to projects. With my dedication to studying and a desire for hands-on experience, I am looking for a junior position in backend development. My goal is to use my abilities and passion to work for a company that values continuous growth and talented, enthusiastic individuals.`,
     ],
