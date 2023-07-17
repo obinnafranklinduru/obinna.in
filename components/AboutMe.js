@@ -235,7 +235,7 @@ export default function AboutMe() {
                 alt="Hardhat"
               />
               <img
-                src="https://docs.soliditylang.org/en/latest/_static/logo.svg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwvEh1m4frzJr25e6KGIVczLp8SZ9v4G21A&usqp=CAU"
                 className="h-20 w-20 mx-4 my-4"
                 title="Solidity"
                 alt="Solidity"

@@ -104,7 +104,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/17GsLRXScdvBjGP94pGOFlyhLrqKWOeOm/view?usp=sharing",
+    "https://github.com/obinnafranklinduru",
   socialLinks: {
     twitter: "https://twitter.com/FranklinDuru7",
     linkedin: "https://www.linkedin.com/in/obinna-franklin-duru/",
