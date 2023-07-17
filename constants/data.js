@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "obinnafranklinduru",
   name: "Obinna Duru",
-  designation: "Back-End Developer",
+  designation: "Backend Developer",
   avatarUrl: "/avatar.jpg",
   email: "duruobinnafranklin@gmail.com",
   phone: "+234 8064248389",
@@ -55,14 +55,15 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer specializing in back-end development.",
+      "I am a software engineer specializing in backend development",
     description: [
-      `During my learning journey, I have dedicated a significant amount of time to learning and practicing the fundamentals of front-end development, including HTML, CSS, JavaScript, React, as well as algorithms, Node.js, and Express.js.`,
-      `Now, I have honed my skills in back-end development. I can develop RESTful APIs, test with Postman, document with Swagger, interact with databases, and implement server-side logic, authentication, and authorization with JSON Web Tokens and Oauth 0.2 implementation. Additionally, I possess knowledge of blockchain, smart contracts, and NFTs.`,
-      `I am eager to work with a team, learn from experienced developers, and contribute to projects. With my dedication to studying and a desire for hands-on experience, I am looking for a junior position in backend development. My goal is to use my abilities and passion to work for a company that values continuous growth and talented, enthusiastic individuals.`,
+      `Using technologies such as Node.js and Express.js, I adeptly architect and implement APIs that empower seamless communication between front-end and back-end systems. I employ thorough testing methodologies with tools like Postman to ensure the reliability and functionality of APIs in various scenarios.`,
+      `In addition, I possess strong skills in documentation, utilizing tools like Swagger to provide comprehensive and user-friendly API documentation. This ensures that developers and stakeholders have clear guidelines for integrating and utilizing the API efficiently.`,
+      `My proficiency extends to database management, where I proficiently interact with databases, implementing efficient queries, and optimizing data retrieval and storage mechanisms. I am well-versed in handling server-side logic, encompassing authentication and authorization methodologies, including the implementation of JSON Web Tokens (JWT) and OAuth 2.0 protocols.`,
+      `With a strong commitment to excellence, I am confident in my ability to contribute to your organization's success by leveraging my technical expertise and passion for building innovative and reliable backend systems.`,
     ],
-    currentProject: "User Management API",
-    currentProjectUrl: "https://github.com/obinnafranklinduru/user_management",
+    currentProject: "FastX (Logisties) Application",
+    currentProjectUrl: "https://github.com/Worksquare/FasX",
   },
   experience: [
     {
@@ -70,7 +71,7 @@ const userData = {
       company: "Tribesquare",
       year: "2023",
       companyLink: "https://www.tribesquare.co/",
-      desc: "Gain access to a transformative learning experience, where I will work on real-life tasks, collaborate with a team, and develop new skills. ",
+      desc: "Build and maintain the server-side components of applications, including APIs, server-side logic, and database management. I ensure secure access, optimal performance, and seamless integration with third-party services. Testing, collaboration, and delivering robust solutions are key focuses of my work.",
     },
     {
       title: "Community Manager",
@@ -106,7 +107,7 @@ const userData = {
     "https://drive.google.com/file/d/17GsLRXScdvBjGP94pGOFlyhLrqKWOeOm/view?usp=sharing",
   socialLinks: {
     twitter: "https://twitter.com/FranklinDuru7",
-    linkedin: "https://www.linkedin.com/in/obinna-duru-11297b225/",
+    linkedin: "https://www.linkedin.com/in/obinna-franklin-duru/",
     github: "https://github.com/obinnafranklinduru",
     facebook: "https://web.facebook.com/franklin.duru.3979/",
     telegram: "https://t.me/obinnaduru",
