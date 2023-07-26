@@ -67,11 +67,11 @@ const userData = {
   },
   experience: [
     {
-      title: "Backend Developer Intern",
+      title: "Backend Developer",
       company: "Tribesquare",
       year: "2023",
       companyLink: "https://www.tribesquare.co/",
-      desc: "Build and maintain the server-side components of applications, including APIs, server-side logic, and database management. I ensure secure access, optimal performance, and seamless integration with third-party services. Testing, collaboration, and delivering robust solutions are key focuses of my work.",
+      desc: "This Tribesquare work program is aimed at individuals who are seeking an internship. The program is designed for individuals who want to build their portfolio, experience working in a team, and become job-ready. Its ultimate goal is to help participants secure well-paying tech jobs and advance their careers. Additionally, the program focuses on using technology to solve real business problems. I'm one of the back-end developers for Team A.",
     },
     {
       title: "Community Manager",
