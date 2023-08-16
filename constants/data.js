@@ -71,7 +71,7 @@ const userData = {
       company: "Tribesquare",
       year: "2023",
       companyLink: "https://www.tribesquare.co/",
-      desc: "This Tribesquare work program is aimed at individuals who are seeking an internship. The program is designed for individuals who want to build their portfolio, experience working in a team, and become job-ready. Its ultimate goal is to help participants secure well-paying tech jobs and advance their careers. Additionally, the program focuses on using technology to solve real business problems. I'm one of the back-end developers for Team A.",
+      desc: "Implemented Node.js backend logics for a logistics application, orchestrating data management, error handling, authentication, security, and API optimization for enhanced efficiency.\nCollaborated closely with the frontend team to ensure seamless API integration for frontend components, contributing to critical features such as authentication process and payment integration for the importance app.",
     },
     {
       title: "Community Manager",
