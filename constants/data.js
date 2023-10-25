@@ -57,21 +57,38 @@ const userData = {
     title:
       "I am a software engineer specializing in backend development",
     description: [
-      `Using technologies such as Node.js and Express.js, I adeptly architect and implement APIs that empower seamless communication between front-end and back-end systems. I employ thorough testing methodologies with tools like Postman to ensure the reliability and functionality of APIs in various scenarios.`,
-      `In addition, I possess strong skills in documentation, utilizing tools like Swagger to provide comprehensive and user-friendly API documentation. This ensures that developers and stakeholders have clear guidelines for integrating and utilizing the API efficiently.`,
-      `My proficiency extends to database management, where I proficiently interact with databases, implementing efficient queries, and optimizing data retrieval and storage mechanisms. I am well-versed in handling server-side logic, encompassing authentication and authorization methodologies, including the implementation of JSON Web Tokens (JWT) and OAuth 2.0 protocols.`,
-      `With a strong commitment to excellence, I am confident in my ability to contribute to your organization's success by leveraging my technical expertise and passion for building innovative and reliable backend systems.`,
+      `Collaborating closely with fellow developers, system architects, and product managers, I excel at translating conceptual ideas into production-ready backend systems that address real-world challenges. My objective is to contribute to the evolution of the digital landscape and explore emerging technologies in this dynamic realm.`,
+      `My skill set encompasses JavaScript, Solidity, and Python, enabling me to create scalable and efficient backend services. Beyond just writing code, I understand how important testing, logging, design systems, design patterns, and the principle of least privilege are to a system.`,
+      `I have a particular passion for AI technologies, blockchain development (Web3), database optimization, and building efficient backend systems. These areas resonate with my drive to push the boundaries of backend development.`,
+      `Here are some of the technologies and tools I have hands-on experience with:
+      \n
+      Languages: JavaScript (TypeScript), Solidity, Python
+      Technologies: Node.js, Express.js, Ethers.js, Hardhat, FastAPI.
+      Databases: MongoDB, PostgreSQL, Ethereum, Polygon, IPFS.
+      Tools: Visual Studio Code, Git, Postman, Docker, Amazon Web Services (AWS), Render Deployment, Docker.
+      \n
+      Packages: I have extensive experience working with various libraries and packages, continuously exploring new ones to enhance code efficiency and speed in backend development.`,
+      `Known for my reliability, problem-solving abilities, and commitment to project deadlines, I thrive in collaborative environments that encourage innovation. As a dedicated team player, I am always eager to contribute to the success of the team and its projects.
+      \n
+      Please feel free to reach out to me for any backend development challenges or inquiries.`,
     ],
-    currentProject: "FastX (Logisties) Application",
-    currentProjectUrl: "https://github.com/Worksquare/FasX",
+    currentProject: "Expentra Application",
+    currentProjectUrl: "https://github.com/Brightlaz/Expense-Tracker",
   },
   experience: [
+    {
+      title: "Backend Developer",
+      company: "SpacerHackConf23",
+      year: "2023",
+      companyLink: "https://twitter.com/CodeSpaceHQ/status/1713083853311480228",
+      desc: "Spearheaded the development of authentication and category-based budget logic, enhancing both application security and user experience\nProficiently managed the database using Couchbase, guaranteeing a successful project outcome and prepared for future contributions.",
+    },
     {
       title: "Backend Developer",
       company: "Tribesquare",
       year: "2023",
       companyLink: "https://www.tribesquare.co/",
-      desc: "Implemented Node.js backend logics for a logistics application, orchestrating data management, error handling, authentication, security, and API optimization for enhanced efficiency.\nCollaborated closely with the frontend team to ensure seamless API integration for frontend components, contributing to critical features such as authentication process and payment integration for the importance app.",
+      desc: "Implemented business logics for a logistics application, overseeing data management, error handling, authentication, security, and API optimization for enhanced efficiency.\nCollaborated closely with the frontend team to ensure seamless API integration for frontend components, contributing to critical features such as the authentication process and payment integration. Utilized MongoDB for robust data management.",
     },
     {
       title: "Community Manager",
@@ -104,7 +121,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://github.com/obinnafranklinduru",
+    "https://www.dropbox.com/scl/fi/eyju1kowo5mavhn3ft6te/OBINNA-FRANKLIN-DURU.pdf?rlkey=03r8svh3x3crt15lxl4imo2jn&dl=0",
   socialLinks: {
     twitter: "https://twitter.com/FranklinDuru7",
     linkedin: "https://www.linkedin.com/in/obinna-franklin-duru/",
